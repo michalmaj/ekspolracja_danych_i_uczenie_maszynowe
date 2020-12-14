@@ -1,0 +1,11 @@
+Proszę wczytać plik Ecommerce Purchases i wyświetlić 6 pierwszych wierszy.
+Proszę sprawdzić ile jest kolumn i wierszy.
+Jaki jest średni koszt zakupu?
+Jaka jest najwyższa i najniższa cena?
+Ile osób ma wybrane 'en' jako język?
+Ile osób ma posadę prawnik ("Lawyer")?
+Ile oósb kupuje rzeczy do 12.00 a ile osób kupuje później?
+Jkaie są najczęściej wykonywane zawody?
+Proszę podać adrs email osoby, której numer karty kredytowej to: 4926535242672853
+Ile osób ma kartę AmericanExpress i zrobiło zakupy za kwotę większą niż 95$?
+Ilu osobom ważność karty kończy się w 2025 roku?

@@ -1,0 +1,10 @@
+Dane:
+x = np.arange(0,100)
+y = x*2
+z = x**2
+
+Proszę importować konieczne biblioteki do obsługi danych.
+Proszę stworzyć nową figurę, funkcją add_axes([0,0,1,1]), użyć plot() do wyświtlenia (x,y). Dodać nawy osi: 'x' oraz 'y' i nadać tytuł: "Tytuł".
+Proszę stowrzyć nową fugurę z add_axes([0,0,1,1]) oraz drugą z add_axes([0.2,0.5,.2,.2]), następnie użyć funkcji plot(x,y) na pierwszej i drugiej fugurze.
+Proszę zbudować subplot z jednym wierszem i dwoma kolumnami. Następnie na pierwszej figurze wysiwetlić plot(x,y) w kolerze niebieskim z linią ('--'), w druigej kolor powinien być czerwony i lonią w tylu ('-').
+Powrótyć proszę to samo ćwicenie, tylko z jedną kolumną i dwoma wierszami. Dodatkowo proszę podpisać osie i nadać tytuły.
